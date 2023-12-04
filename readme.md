@@ -10,6 +10,7 @@
 * Spring web
 * h2
 * lombok
+* thymeLeaf
 * Apache
 * MySql
 * Bootstrap
