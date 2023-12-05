@@ -1,7 +1,11 @@
 # Patient management application
 
-![Alt text](image.png)
 
+![Alt text](image-1.png)
+
+![Alt text](image-3.png)
+
+![Alt text](image-2.png)
 
 ## Learn the SPRINGBOOT framework using:
 
@@ -10,6 +14,7 @@
 * Spring web
 * h2
 * lombok
+* Hibernate
 * thymeLeaf
 * Apache
 * MySql
